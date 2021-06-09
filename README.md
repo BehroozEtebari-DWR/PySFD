@@ -17,10 +17,10 @@ https://www.coastrangewater.org/projects
 To implement gis application, I used Geopandas library
 Users need to create a new environemt inside Anaconda, then activate the new environment and run Glover-GIS:
 Here is the instructions for Geopandas:
-conda create -n geo_env
-conda activate geo_env
-conda config --env --add channels conda-forge
-conda config --env --set channel_priority strict
-conda install python=3 geopandas
+1- conda create -n geo_env
+2- conda activate geo_env
+3- conda config --env --add channels conda-forge
+4- conda config --env --set channel_priority strict
+5- conda install python=3 geopandas
 
 
