@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20210527</CreaDate><CreaTime>06070500</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20210527" Time="060705">CalculateField MWC_water_wells_utm Id "[FID] +1" VB #</Process></lineage></DataProperties></Esri></metadata>
