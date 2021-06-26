@@ -1,6 +1,7 @@
 # PySFD
 Jupyter Notebooks for Stream Flow Depletion (SFD) analyses (Analytical approaches)
-Was written for the California Dept. of Water Resources
+written for the California Dept. of Water Resources(Cal-DWR)
+behrooz.eteari@water.ca.gov
 Modeling and Tools Support Section
 
 for following analytical models:
