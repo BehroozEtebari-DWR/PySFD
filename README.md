@@ -1,5 +1,5 @@
 # PySFD
-Jupyter Notebooks for Stream Flow depletion factors (Analytical approaches)
+Jupyter Notebooks for Stream Flow Depletion (SFD) analyses (Analytical approaches)
 Was written for the California Dept. of Water Resources
 Modeling and Tools Support Section
 
