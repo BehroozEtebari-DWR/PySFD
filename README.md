@@ -5,12 +5,12 @@ Modeling and Tools Support Section
 
 for following analytical models:
 1-Glover & Balmer 1954
-2-Hunt 1999
-3-Hantush 1965
-4-Jenkins 1968
-5-Singh 2003
-6- Apportionment
-Hunt 2003 (has not been finilizied yet and need some adjustment for the Stehfest algorithm )
+2-Hunt-1999
+3-Hantush-1965
+4-Jenkins-1968
+5-Singh-2003
+6-Apportionment via GIS(Geopandas), closest stream distance
+7-Hunt 2003 (has not been finilizied yet and need some adjustment for the Stehfest algorithm )
 
 Also Glover-GIS Notebook was developed for Mark West Creek(HUC12) with AVARAGE monthly pumping rates, NHD datasets and 
 Water Wells were adopted from following report:
