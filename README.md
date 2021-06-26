@@ -4,12 +4,13 @@ Was written for the California Dept. of Water Resources
 Modeling and Tools Support Section
 
 for following analytical models:
-Glover & Balmer 1954
-Hunt 1999
-Hantush 1965
-Jenkins 1968
-Singh 2003
-Hunt 2003 ( has not been finilizied yet and need some adjustment for the Stehfest algorithm )
+1-Glover & Balmer 1954
+2-Hunt 1999
+3-Hantush 1965
+4-Jenkins 1968
+5-Singh 2003
+6- Apportionment
+Hunt 2003 (has not been finilizied yet and need some adjustment for the Stehfest algorithm )
 
 Also Glover-GIS Notebook was developed for Mark West Creek(HUC12) with AVARAGE monthly pumping rates, NHD datasets and 
 Water Wells were adopted from following report:
