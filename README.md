@@ -4,7 +4,7 @@ written for the California Dept. of Water Resources(Cal-DWR)
 behrooz.eteari@water.ca.gov
 Modeling and Tools Support Section
 
-for following analytical models:
+following analytical models:
 1-Glover & Balmer 1954
 2-Hunt-1999
 3-Hantush-1965
