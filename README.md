@@ -5,7 +5,7 @@ Contact: behrooz.eteari@water.ca.gov
 
 The notebooks implement the following analytical models:  
 1. Glover & Balmer (1954)  
-2. Hunt (1999)  
+2. Hunt (1999)  and Hunt (2003)
 3. Hantush (1965)  
 4. Jenkins (1968)  
 5. Singh (2003)  
